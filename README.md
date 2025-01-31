@@ -11,6 +11,7 @@
 - [ ] War reparations (from Russia to Ukraine)
 - [ ] Terms for Russia for easing sanctions
 - [ ] Conditions in the Black Sea and Azov Sea
+- [ ] Annexes
 
 ## Sources and examples
 
