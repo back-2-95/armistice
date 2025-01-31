@@ -1,4 +1,4 @@
-# ARMISTICE
+# TERMS OF ARMISTICE SIGNED BY RUSSIA
 
 ## Subject to cover
 
