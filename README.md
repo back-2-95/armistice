@@ -17,4 +17,7 @@
 
 - https://li.proquest.com/elhpdf/histcontext/7444-H.doc.1339.pdf
 - https://static.slov-lex.sk/pdf/prilohy/SK/ZZ/1947/208/19471218_1099985-2.pdf
-- 
+
+## Map data
+
+Go to https://www.mapchart.net/europe-detailed.html and load map configuration from [Ukraine_and_bordering_oblasts.txt](data/Ukraine_and_bordering_oblasts.txt)
