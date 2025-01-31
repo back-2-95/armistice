@@ -4,7 +4,7 @@
 
 - [ ] Cessation of all hostilities
 - [ ] Withdrawal of the Russian troops
-- [ ] 1991 borders
+- [ ] Return to 1991 borders incl. Crimea
 - [ ] Return of POWs and bodies
 - [ ] Return of civilians
 - [ ] War criminals to Hague
