@@ -1,14 +1,14 @@
 # TERMS OF ARMISTICE SIGNED BY RUSSIA
 
-## 1 Cessation of all hostilities
+## Article 1. Cessation of all hostilities
 
 TODO
 
-## 2 Withdrawal of the Russian troops
+## Article 2. Withdrawal of the Russian troops
 
 TODO
 
-## 3 Return to 1991 borders incl. Crimea
+## Article 3. Territorial integrity of Ukraine
 
 TODO
 
