@@ -1,6 +1,6 @@
 # TERMS OF ARMISTICE SIGNED BY RUSSIA
 
-## Subject to cover
+## Subjects to cover
 
 - [ ] Cessation of all hostilities
 - [ ] Withdrawal of the Russian troops
@@ -21,6 +21,8 @@ The actual document here [DOCUMENT.md](DOCUMENT.md)
 
 - https://li.proquest.com/elhpdf/histcontext/7444-H.doc.1339.pdf
 - https://static.slov-lex.sk/pdf/prilohy/SK/ZZ/1947/208/19471218_1099985-2.pdf
+- https://www.britannica.com/topic/law-of-war/Cessation-of-hostilities
+- https://igad.int/wp-content/uploads/2022/11/Download-the-signed-agreement-here.pdf
 
 ## Map data
 
