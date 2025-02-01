@@ -6,7 +6,7 @@
 - [ ] Withdrawal of the Russian troops
 - [ ] Return to 1991 borders incl. Crimea
 - [ ] Return of POWs and bodies
-- [ ] Return of civilians
+- [ ] Return of civilians incl. kidnapped children
 - [ ] War criminals to Hague
 - [ ] War reparations (from Russia to Ukraine)
 - [ ] Terms for Russia for easing sanctions
