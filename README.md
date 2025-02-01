@@ -2,7 +2,7 @@
 
 ## Subject to cover
 
-- [ ] Cessation of all hostilities
+- [ ] Cessation of all hostilities
 - [ ] Withdrawal of the Russian troops
 - [ ] Return to 1991 borders incl. Crimea
 - [ ] Return of POWs and bodies
@@ -12,6 +12,10 @@
 - [ ] Terms for Russia for easing sanctions
 - [ ] Conditions in the Black Sea and Azov Sea
 - [ ] Annexes
+
+## Document
+
+The actual document here [DOCUMENT.md](DOCUMENT.md)
 
 ## Sources and examples
 
