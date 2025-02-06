@@ -14,14 +14,14 @@ Regarding the territorial integrity of the nation and its independence, aligned 
 the land with the nations of the Free Western World, Ukraine must therefore, with Western assistance, fulfill the behest
 of the late Mykhailo Hrushevsky, one of the first to fight for the independence of Ukraine from Russian domination, and
 thus consider not just the restoration of the legally defined borders it had at the restoration of independence in 1991,
-Crimea and the Donbass inclusive, but given the history and cultures of the Ukrainian people at large, the great
-Ukrainian victories won by its Armed Forces and wartime auxilary organizations in Kursk Oblast against Russia and its
+Crimea (1) and the Donbass inclusive, but given the history and cultures of the Ukrainian people at large, the great
+Ukrainian victories won by its Armed Forces and wartime auxilary organizations in Kursk Oblast (2) against Russia and its
 allies beginning in the summer of 2024 now slowly cementing in the minds of Ukrainians and all the people of the free
 world its rightful place as part of the territory of said nation, and the wishes of the former Kuban People's Republic
 in 1919 to unify it with the Ukrainian nation completing thus the wishes of Hrushevsky and others to unify all the lands
 wherein the Cossack people have been present throught history, the demand thus of many within Ukraine to unite all these
 areas, including those of the historic Kuban, to the Ukrainian nation, to consider formally officially acknowledge that
-Bilhorod, Kursk, Bryansk, Voronesk and Rostov Oblasts, Krasnodar Krai and Stavropol Krai, and the Republic of Adygea,
+Bilhorod (3), Kursk, Bryansk (4), Voronesk (5) and Rostov Oblasts (6), Krasnodar Krai (7) and Stavropol Krai (8), and the Republic of Adygea (9),
 all territories of the so-called Russian Federation, and all these being for many years, until the Holomodor of the
 1930s and beyond, the lands in which millions of Ukrainians lived and worked outside of the current borders of Ukraine
 as constituted by law, and given that these lands have been where the storied cultures and heroism of the Cossack nation
