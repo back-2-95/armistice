@@ -2,7 +2,8 @@
 
 ## Article 1. Cessation of all hostilities
 
-Cessation of operations by land and in the air six hours after the signature of the armistice.
+Cessation of all operations by land, in the sea, and in the air six hours after the signature of the armistice must take
+place. This also includes any and all forms of paramilitary operations.
 
 The Parties commit to and declare an immediate and Permanent Cessation of hostilities and all subsequent stages of the
 peace process.
@@ -12,6 +13,11 @@ of violence; laying of mines; sabotage; airstrikes; direct or indirect acts of v
 to destabilize the other Party or collusion with any external force hostile to either Party.
 
 This Permanent Cessation of hostilities shall include the cessation of all forms of propaganda, rhetoric, and hate speech.
+
+Also, all military, para-military operations as well as any law enforcement and disaster operations by members of the
+armed forces are to be ceased definitely in the regions and territories which are to be indicated and described in
+Article 3 of this document by the Parties involved, with only law enforcement and emergency organizations continuing to
+function in the period following the cessation of hostilities in these areas.
 
 ## Article 2. Withdrawal of the Russian troops
 
