@@ -108,3 +108,31 @@ centuries.
 ![ukraine_and_bordering_oblasts.png](assets/ukraine_and_bordering_oblasts.png)
 
 Source data: [Ukraine_and_bordering_oblasts.txt](data/Ukraine_and_bordering_oblasts.txt) with [MapChart](https://www.mapchart.net/europe-detailed.html)
+
+## Article 4. Return of POWs and bodies
+
+TODO
+
+## Article 5. Return of civilians incl. kidnapped children
+
+TODO
+
+## Article 6. War criminals to Hague
+
+TODO
+
+## Article 7. War reparations (from Russia to Ukraine)
+
+TODO
+
+## Article 8. Terms for Russia for easing sanctions
+
+TODO
+
+## Article 9. Conditions in the Black Sea and Azov Sea
+
+TODO
+
+## Annexes
+
+TODO
