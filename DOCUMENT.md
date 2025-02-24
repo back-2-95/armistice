@@ -121,17 +121,57 @@ TODO
 
 TODO
 
+### Leaderdship on government level
+
+- Vladimir Putin - President
+- Dmitry Medvedev - Prime Minister
+- Sergey Lavrov - Minister of Foreign Affairs
+
+### Leadership on military level
+
+- Valery Gerasimov - Chief of the General Staff
+- Sergey Shoygu - Minister of Defense
+- Igor Kostyukov - Chief of the GRU
+
+### Commanders of the Armed Forces
+
+- TODO
+
+### Lower level commanders
+
+- TODO
+
+### Identified soldiers commiting war crimes
+
+- TODO
+
 ## Article 7. War reparations (from Russia to Ukraine)
 
-TODO
+### Destroyed infrastructure
+
+- TODO
+
+### Lost lives
+
+- TODO
 
 ## Article 8. Terms for Russia for easing sanctions
 
-TODO
+No sactions are to be eased until the full implementation of the terms of this armistice.
+
+### 1st stage of easing sanctions
+
+- Any items related to living of normal citizens, such as food, medicine, and other basic necessities, will be allowedto be imported to Russia.
 
 ## Article 9. Conditions in the Black Sea and Azov Sea
 
-TODO
+### Black Sea
+
+- TODO
+
+### Azov Sea
+
+- TODO
 
 ## Annexes
 
