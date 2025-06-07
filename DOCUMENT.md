@@ -36,7 +36,7 @@ world its rightful place as part of the territory of said nation, and the wishes
 in 1919 to unify it with the Ukrainian nation completing thus the wishes of Hrushevsky and others to unify all the lands
 wherein the Cossack people have been present throught history, the demand thus of many within Ukraine to unite all these
 areas, including those of the historic Kuban, to the Ukrainian nation, to consider formally officially acknowledge that
-Bilhorod (3), Kursk, Bryansk (4), Voronesk (5) and Rostov Oblasts (6), Krasnodar Krai (7) and Stavropol Krai (8), and the Republic of Adygea (9),
+Bilhorod (3), Kursk, Bryansk (4), Voronesk (5), Orel (6) and Rostov Oblasts (7), Krasnodar Krai (8) and Stavropol Krai (9), and the Republic of Adygea (10), 
 all territories of the so-called Russian Federation, and all these being for many years, until the Holomodor of the
 1930s and beyond, the lands in which millions of Ukrainians lived and worked outside of the current borders of Ukraine
 as constituted by law, and given that these lands have been where the storied cultures and heroism of the Cossack nation
@@ -79,7 +79,8 @@ Armed Forces of Ukraine and the law enforcement, security and emergency organiza
 exercising thus obedience to the norms of the Constitution and laws of Ukraine and to the duly constituted authorities
 of the nation, and their commitment to contribute to the security and defense of the nation at large and cooperating
 with the Western Powers towards the goal of a brighter future and prosperous society finally free from the years of
-suffering and persecution incurred at the hands of the Russian occupier.
+suffering and persecution incurred at the hands of the Russian occupier. Adygeans who have collaborated with Russia in
+the conduct of its war against Ukraine will be punished accordingly for their actions.
 
 In addition, upon the official retrocession of Crimea as constituent Autonomous Republic of Ukraine, the Crimean Tatar
 language shall be fully restored and education in it made mandatory alongside the Ukrainian language, and efforts made
@@ -89,21 +90,48 @@ force of an illegal referendum. Names of places in this region will be now in th
 the original place names that were later replaced by those in the Russian language, and every representation of Russia
 and its precesssors will be treated on a case to case basis. The Crimean Tatar population must also be encouraged to
 join the Armed Forces of Ukraine and the law enforcement, security and emergency organizations in the manner prescribed
-by law.
+by law. Russian, Ukrainian and Crimean Tatar collaborators to the Armed Forces of Russia and law enforcement organs of 
+the Russian state will be punished for working with the occupier in commiting war crimes and acts of abuse 
+of human rights against the population of the region especially against the Crimean Tatar community, otherwise, they must swear 
+allegiance to Ukraine and accept the duty of defending Ukraine's historic sovereign rights to this autonomous region.
 
 Much of Luhansk and Donetsk Oblasts, which were taken away from Ukraine to form so-called proxy republics by the
 assistance of the Armed Forces of Russia and its paramilitaries and its allies and supporters in Ukraine, will be
 returned to Ukraine and all those Russians and Ukrainians who helped in the secession of much of the territory of these
-oblasts from Ukraine will be punished, as well as any who have served in the Armed Forces and law enforcement organs in
+oblasts from Ukraine will be punished, as well as any who have served in the Armed Forces and law enforcement organs of Russia in
 these terriories (formerly the armed forces and law enforcement organizations of the so-called Donetsk and Luhansk
-People's Republics sponsored by Russia and illegially annexed into it by false referendum in 2022).
+People's Republics sponsored by Russia and illegially annexed into it by false referendum in 2022). However, recruitment to the AFU 
+and the other uniformed organizations shall be encouraged and made mandatory for everyone who has not helped in Russia's 
+war efforts in these regions of Ukraine under Russian occupation.
+
+Also, a similar arrangement will be made with the Republic of Kalmykia (11) following the either the conclusion of the war or 
+as the results of this planned armistice, both towards unification with Ukraine as given that parts of it have been the 
+historical part of the Ukrainian Cossack Kuban and that such an annexation as autonomous republic of Ukraine with the same treatment 
+of full autonomy as in Adygea would give it access to the Caspian Sea, but given the presence of the Congress of the Oirat-Kalmyk People 
+which demands for full indepedence, there will be plans as well for a post-unification plebisite on the future fate of the republic, either as remaining
+as an autonomous republic of Ukraine or as an independent nation. If the option of unification is accepted, referendum or none at all, the Oriat-Kalmyk people must be 
+encouraged to swear allegiance to Ukraine and to serve in the Armed Forces and the other uniformed organizations of the nation, and
+for the region, upon annexation to Ukraine as an autonomous republic, the government in Kyiv will guaranteee its full autonomy in like manner as in 
+Adygea, and all those Kalmyks who collaborated with Russia in war crimes and human rights abuses will be charged accordingly as well as in their participation
+in the war at large. Regardless of either the outcome of the planned future plebisite or the acceptance or rejection of unification
+by the regional government with or without the referendum, Ukraine will help protect the cultures, religions and traditions of the Kalmyrk peoples and with any and 
+all forms of Western assistance help reverse decades of desertification in the republic and will also assist in the rebuilding of 
+their traditional ways of living, their economic, religious and cultural reconstruction and in other fields of endeavour. In addition to
+these, a ban of all pro-Russian political parties and organizations in this republic shall be in force regardless.
 
 The autonomous republics of Kabardino-Balkaria and Karachay-Cherkessia, also a part of the "Russian Federation", will be
 assisted by Ukraine to help in their liberation from the Russian dominator and autocrat, and will be assisted in either
 preparing for full annexation as republics of Ukraine owing to their location as part of the historic Kuban, or to
 become fully independent nations, in either case Ukraine will contribite to helping for the restoration of their
 languages and the Circassian cultures and traditions in these territories suppressed and persecuted by Russia over the
-centuries.
+centuries.  In both cases the Ukrainian nation will assist as well in their cultural rehabilitiation and development, as well as 
+in their economic and social matters, in removing any and all forms of recognition and representation of Russia in these territories, 
+and in creating and enforcing a ban of all pro-Russian politicial parties and organizations and removing them from 
+these regions as well as punishing accordingly all the individuals involved in the aformentioned during the
+war's duration, as well as anyone who participated in the actions of the enemy during the war.
+
+Any and all forms of military-use nuclear weapons shall not be allowed on these territories by the Parties involved in the Treaty as
+well as any test firing activities of the aformentioned.
 
 ![ukraine_and_bordering_oblasts.png](assets/ukraine_and_bordering_oblasts.png)
 
@@ -111,11 +139,14 @@ Source data: [Ukraine_and_bordering_oblasts.txt](data/Ukraine_and_bordering_obla
 
 ## Article 4. Return of POWs and bodies
 
-TODO
+The Parties involved in the war will, in the period following the formal implementation of a ceasefire between them, must conduct as soon as possible efforts to return all living prisoners of war held in the territoies of each other back to their home countries. This also includes any and all prisoners of war who are not both in the territories of Russia and Ukraine, but have been fighting as foreign born combatants under the banner of their respective armed forces. However, any POW, native-born or otherwise, who has been prosecuted of war crimes and crimes against humanity, as well as for acts of friendly fire and other military crimes by either of these Parties shall face the full extent of legal prosecution for their actions. In addition, those who were released in Ukraine or Russia and have had already participated in the war before the cessation of hostilities under the Ukrainian or Russian flag may choose either to return to their homeland or accept citizenship. Also the case of return for any POW who is a high-ranking officer in the armed forces will be on a case to case basis with legal action if any has commited any war crimes, human rights abuses and others covered under the Geneva Convention and their respective national military judicial codes and legislation in force.
+
+Any and all bodies of personnel killed on either side of the conflict shall be returned following the aformentioned ceasefire implementation and onwards with the fullest of efforts by both Parties to their home communities where they would be buried with full funeral honors. All those bodies of deceased foreign fighters who have died fighting for either side will be repatriated back to their home countries as well in like manner with the assistance of the countries they came from. Cremated bodies of fighters from both sides shall be treated in like manner on a case to case basis for their repatriation to their current or former communities of residence by the time of their deaths so that their families would be informed of their deaths and on their cremation following death without any and or consent. However if consent was taken to cremate the bodies by the immediate family, the same process would be applied as of those cremated without any form of consent by the immediate family/families of the deceased. The same case of repatriation back to the community would also be done for those service personnel who were buried without the consent of the immediate family of the deceased.
 
 ## Article 5. Return of civilians incl. kidnapped children
 
-TODO
+The Parties involved in the war will, in the in the period following the formal implementation of a ceasefire between them, must conduct as soon as possible efforts to return all civilians that are held in Russia and seized by its armed forces and law enforcement organizations, as well as civilians, back to Ukraine, including childen and youth that have been 
+kidnapped by the former.
 
 ## Article 6. War criminals to Hague
 
