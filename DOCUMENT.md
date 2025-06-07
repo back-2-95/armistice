@@ -31,12 +31,11 @@ of the late Mykhailo Hrushevsky, one of the first to fight for the independence 
 thus consider not just the restoration of the legally defined borders it had at the restoration of independence in 1991,
 Crimea (1) and the Donbass inclusive, but given the history and cultures of the Ukrainian people at large, the great
 Ukrainian victories won by its Armed Forces and wartime auxilary organizations in Kursk Oblast (2) against Russia and its
-allies beginning in the summer of 2024 now slowly cementing in the minds of Ukrainians and all the people of the free
-world its rightful place as part of the territory of said nation, and the wishes of the former Kuban People's Republic
+allies beginning in the summer of 2024 and in Bilhorod (Belgorod) Oblast (3) beginning in the spring of 2025 now slowly cementing in the minds of Ukrainians and all the people of the free world its rightful place as part of the territory of said nation, and the wishes of the former Kuban People's Republic
 in 1919 to unify it with the Ukrainian nation completing thus the wishes of Hrushevsky and others to unify all the lands
 wherein the Cossack people have been present throught history, the demand thus of many within Ukraine to unite all these
 areas, including those of the historic Kuban, to the Ukrainian nation, to consider formally officially acknowledge that
-Bilhorod (3), Kursk, Bryansk (4), Voronesk (5), Orel (6) and Rostov Oblasts (7), Krasnodar Krai (8) and Stavropol Krai (9), and the Republic of Adygea (10), 
+Bilhorod, Kursk, Bryansk (4), Voronesk (5), Orel (6) and Rostov Oblasts (7), Krasnodar Krai (8) and Stavropol Krai (9), and the Republic of Adygea (10), 
 all territories of the so-called Russian Federation, and all these being for many years, until the Holomodor of the
 1930s and beyond, the lands in which millions of Ukrainians lived and worked outside of the current borders of Ukraine
 as constituted by law, and given that these lands have been where the storied cultures and heroism of the Cossack nation
@@ -119,6 +118,13 @@ all forms of Western assistance help reverse decades of desertification in the r
 their traditional ways of living, their economic, religious and cultural reconstruction and in other fields of endeavour. In addition to
 these, a ban of all pro-Russian political parties and organizations in this republic shall be in force regardless.
 
+In addition, parts of Tambov (11), Volgograd (12), Saratov (13) and Liptesk Oblasts (14) bordering the
+regions already mentioned that are slated for total annexation shall be annexed to Ukraine postwar as well and the communities that are part of the
+areas affected will be fully integrated with it, and its population asked to swear allegiance to Ukraine and its
+Constitution, speak Ukrainian and serve in the AFU and the other uniformed organizations. People of these areas who
+have worked with the aggressor in the performance of war crimes, human rights abuses and other activities will
+be prosecuted accordingly upon official annexation to the national territory of Ukraine in these areas.
+
 The autonomous republics of Kabardino-Balkaria and Karachay-Cherkessia, also a part of the "Russian Federation", will be
 assisted by Ukraine to help in their liberation from the Russian dominator and autocrat, and will be assisted in either
 preparing for full annexation as republics of Ukraine owing to their location as part of the historic Kuban, or to
@@ -161,7 +167,7 @@ TODO
 ### Leadership on military level
 
 - Valery Gerasimov - Chief of the General Staff
-- Sergey Shoygu - Minister of Defense
+- Sergey Shoygu - Minister of Defense until 2023
 - Igor Kostyukov - Chief of the GRU
 
 ### Commanders of the Armed Forces
