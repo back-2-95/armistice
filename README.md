@@ -4,7 +4,7 @@
 
 - [ ] Cessation of all hostilities
 - [ ] Withdrawal of the Russian troops
-- [ ] Territorial integrity of Ukraine - Return to 1991 borders incl. Crimea
+- [ ] Territorial integrity of Ukraine - Return to 1991 borders incl. Crimea and possible annexations outside these borders
 - [ ] Return of POWs and bodies
 - [ ] Return of civilians incl. kidnapped children
 - [ ] War criminals to Hague
