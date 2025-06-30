@@ -36,7 +36,7 @@ in 1919 to unify it with the Ukrainian nation completing thus the wishes of Hrus
 wherein the Cossack people have been present throught history, the demand thus of many within Ukraine to unite all these
 areas, including those of the historic Kuban, to the Ukrainian nation, to consider formally officially acknowledge that
 Bilhorod, Kursk, Bryansk (4), Voronesk (5), Orel (6) and Rostov Oblasts (7), Krasnodar Krai (8) and Stavropol Krai (9), and the Republic of Adygea (10), 
-all territories of the so-called Russian Federation, and all these being for many years, until the Holomodor of the
+all territories of the so-called Russian Federation, and most of these territories being for many years, until the Holomodor of the
 1930s and beyond, the lands in which millions of Ukrainians lived and worked outside of the current borders of Ukraine
 as constituted by law, and given that these lands have been where the storied cultures and heroism of the Cossack nation
 have bore witness over the centuries, as territories of the Ukrainian nation in name and in deed, as officially part of
